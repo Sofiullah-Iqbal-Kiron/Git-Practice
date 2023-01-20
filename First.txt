@@ -6,3 +6,5 @@ newline added to learn git fetch/pull: 14 Jan, 23.
 another line added from local repo.
 
 a line from labpc20.
+
+another line from labpc20;
